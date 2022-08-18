@@ -1,1 +1,1 @@
-# links
+# A basic link page written in React.js, Next.js, and TailwindCSS

@@ -1,0 +1,1 @@
+export const SplashPageTitle = "Welcome to Links"
